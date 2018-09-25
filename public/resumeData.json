@@ -1,0 +1,151 @@
+{
+  "main": {
+    "name":"Julien Regnault",
+    "occupation":"full stack developer consultant",
+    "description":"New tech enthusiast, passionate and working in the CTRM industry for more than ten years, I'm very familiar with the process of building software on technical and functional levels",
+    "image":"profilepic.jpg",
+    "bio":"Born and raised in France, I've joined the Gendarmerie Nationale as technical officer after a Master's degree. I've later moved to Geneva to work in the CTRM industry: software engineering, functional analysis, support and consulting. I consider myself as a continuous learner with the desire to continually improve my skillset by gathering new knowledge.",
+    "contactmessage":"For any request, please fill in this contact form. I'll come back to you asap",
+    "email": "julien.regnault@gmail.com",
+    "phone": "(+65) 92720420",
+    "address":{
+      "street":"12 Tanah Merah Kechil Link #07-24",
+      "city":"Singapore",
+      "zip": "465422"
+    },
+    "website": "http://github.com/Philipid3s",
+    "resumedownload":"http://github.com/Philipid3s",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/philipid3s",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/julien-regnault-19013a1a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/julien_regnault",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/Philipid3s",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"https://join.skype.com/invite/GPsE5TWo8dLw",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Backend and frontend software developer. I'm very familiar with C++/C# and the .Net framework. I've also worked on many projects in JavaScript and Python.",
+    "education":[
+      {
+        "school":"Université Paris Diderot (Paris VII)",
+        "degree":"Master 2, Software Engineering, with honors",
+        "graduated":"June 2002",
+        "description":"frontend and backend development, web app"
+      },
+      {
+        "school":"Université de Bretagne Occidentable (Brest)",
+        "degree":"Master 1, Computer Sciences",
+        "graduated":"June 2001",
+        "description":"uml, relational databases, algorithm, object oriented programming"
+      }
+    ],
+    "work":[
+      {
+        "company":"Brady PLC",
+        "title":"Senior Software Developer Analyst ",
+        "years":"October 2006 - Present",
+        "description":"Frontend and backend development for a CTRM platform. Web development. APIs. Technical Architect for Commodity Trading solutions."
+      },
+      {
+        "company":"Segilog",
+        "title":"Software Developer Analyst ",
+        "years":"October 2004 - October 2006",
+        "description":"Frontend developer."
+      },
+      {
+        "company":"Centre Technique de la Gendarmerie Nationale",
+        "title":"Software Engineering Officer ",
+        "years":"April 2003 - October 2004",
+        "description":"Development of the new back office platform."
+      }
+    ],
+    "skills":[
+      {
+        "name":"C++",
+        "level":"90%"
+      },
+      {
+        "name":"C#",
+        "level":"80%"
+      },
+      {
+        "name":"RESTful API",
+        "level":"70%"
+      },
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"60%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"SQL Server",
+        "level":"90%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Commodity trading and risk management software",
+        "category":"Software Engineer",
+        "image":"brady-ctrm.jpg",
+        "url":"https://www.bradyplc.com/commodities-solutions/"
+      },
+      {
+        "title":"Blockchain: distributed content sharing",
+        "category":"example of blockain technology",
+        "image":"blockchain.jpg",
+        "url":"https://app-blockchain.herokuapp.com/"
+      },
+      {
+        "title":"Global emergencies dashboard",
+        "category":"full stack website",
+        "image":"ged.jpg",
+        "url":"https://app-blockchain.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Methodical, efficient and conscientious. Good collaborator.",
+        "user":"Philippe Renaud, project manager"
+      }
+    ]
+  }
+}
