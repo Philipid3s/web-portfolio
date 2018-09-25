@@ -14,7 +14,7 @@
       "zip": "465422"
     },
     "website": "https://julien-regnault.herokuapp.com",
-    "resumedownload":"https://julien-regnault.herokuapp.com/static/resume.pdf",
+    "resumedownload":"/static/resume.pdf",
     "social":[
       {
         "name":"twitter",
