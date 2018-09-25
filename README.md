@@ -1,7 +1,7 @@
 # React JS Resume Web App
 ![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
 
-##Description
+## Description
 ReactJS based personal resume
 
 ## Credits
