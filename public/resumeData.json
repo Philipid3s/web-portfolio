@@ -14,7 +14,7 @@
       "zip": "465422"
     },
     "website": "https://julien-regnault.herokuapp.com",
-    "resumedownload":"/static/julien-regnault.pdf",
+    "resumedownload":"https://julien-regnault.herokuapp.com/static/julien-regnault.pdf",
     "social":[
       {
         "name":"twitter",
@@ -121,14 +121,20 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Commodity trading and risk management software",
-        "category":"Software Engineer",
-        "image":"brady-ctrm.jpg",
-        "url":"https://www.bradyplc.com/commodities-solutions/"
+        "title":"Commodity trading sentiment analysis",
+        "category":"python language processing",
+        "image":"ctsa.jpg",
+        "url":"https://app-ctsa.herokuapp.com/"
+      },
+      {
+        "title":"ChatBot",
+        "category":"nodeJS chatbot implementation",
+        "image":"chatterbot.jpg",
+        "url":"https://app-chatterbot.herokuapp.com/"
       },
       {
         "title":"Blockchain: distributed content sharing",
-        "category":"example of blockain technology",
+        "category":"blockchain implementation",
         "image":"blockchain.jpg",
         "url":"https://app-blockchain.herokuapp.com/"
       },
@@ -136,7 +142,7 @@
         "title":"Global emergencies dashboard",
         "category":"full stack website",
         "image":"ged.jpg",
-        "url":"https://app-blockchain.herokuapp.com/"
+        "url":"https://app-ged.herokuapp.com/"
       }
     ]
   },
