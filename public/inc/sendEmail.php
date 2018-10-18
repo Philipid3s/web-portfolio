@@ -1,9 +1,7 @@
 <?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-$siteOwnersEmail = 'julien.regnault@gmail.com';
-
-
-if($_POST) {
+    $siteOwnersEmail = 'julien.regnault@gmail.com';
 
     $name = trim(stripslashes($_POST['contactName']));
     $email = trim(stripslashes($_POST['contactEmail']));
@@ -44,7 +42,6 @@ if($_POST) {
 
 
     if (!$error) {
-
         ini_set("sendmail_from", $siteOwnersEmail); // for windows server
         $mail = mail($siteOwnersEmail, $subject, $message, $headers);
 
@@ -57,7 +54,5 @@ if($_POST) {
         $response .= (isset($error['message'])) ? $error['message'] . "<br />" : null;
         echo $response;
     } # end if - there was a validation error
-
 }
-
 ?>
