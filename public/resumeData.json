@@ -23,7 +23,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/julien-regnault-19013a1a/",
+        "url":"https://www.linkedin.com/in/julien-regnault/",
         "className":"fa fa-linkedin"
       },
       {
@@ -40,6 +40,11 @@
         "name":"skype",
         "url":"https://join.skype.com/invite/GPsE5TWo8dLw",
         "className":"fa fa-skype"
+      },
+      {
+        "name":"blog",
+        "url":"https://my-developer-diary.netlify.com/",
+        "className":"fa fa-pencil"
       }
     ]
   },
@@ -143,6 +148,12 @@
         "category":"full stack website",
         "image":"ged.jpg",
         "url":"https://app-ged.herokuapp.com/"
+      },
+      {
+        "title":"Chip8 emulator WebAssembly",
+        "category":"webassembly",
+        "image":"pong.jpg",
+        "url":"https://chip8.netlify.com/"
       }
     ]
   },
