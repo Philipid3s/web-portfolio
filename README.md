@@ -11,3 +11,12 @@ ReactJS based personal resume
 
 ##### Header photo credit
 <a href="https://unsplash.com/@eschirtz?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge">Eric Schirtzinger</a>
+
+
+## Build & Deploy
+npm install
+npm run-script build
+netlify deploy (build/)
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a37d6ec7-e530-4a4a-b168-afbe60e834b8/deploy-status)](https://app.netlify.com/sites/julien-regnault/deploys)

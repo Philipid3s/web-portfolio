@@ -66,9 +66,15 @@
     ],
     "work":[
       {
+        "company":"CTRM Information Service ltd",
+        "title":"Consultant",
+        "years":"March 2019 - Present",
+        "description":"CTRM implementation"
+      },
+      {
         "company":"Brady PLC",
         "title":"Senior Software Developer Analyst ",
-        "years":"October 2006 - Present",
+        "years":"October 2006 - March 2019",
         "description":"Frontend and backend development for a CTRM platform. Web development. APIs. Technical Architect for Commodity Trading solutions."
       },
       {
