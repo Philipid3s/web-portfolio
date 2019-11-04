@@ -67,9 +67,9 @@
     "work":[
       {
         "company":"CTRM Information Service ltd",
-        "title":"Consultant",
+        "title":"Technical Consultant ",
         "years":"March 2019 - Present",
-        "description":"CTRM implementation"
+        "description":"CTRM integration"
       },
       {
         "company":"Brady PLC",
@@ -160,6 +160,12 @@
         "category":"webassembly",
         "image":"pong.jpg",
         "url":"https://chip8.netlify.com/"
+      },
+      {
+        "title":"Blockchain-Based Platform for Commodity Trading",
+        "category":"blockchain implementation",
+        "image":"goldbarexchange.jpg",
+        "url":"https://gold-bars-exchange.herokuapp.com/"
       }
     ]
   },
