@@ -14,9 +14,9 @@ ReactJS based personal resume
 
 
 ## Build & Deploy
-npm install
-npm run-script build
-netlify deploy (build/)
+- npm install
+- npm run-script build
+- netlify deploy --prod (build/)
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a37d6ec7-e530-4a4a-b168-afbe60e834b8/deploy-status)](https://app.netlify.com/sites/julien-regnault/deploys)
